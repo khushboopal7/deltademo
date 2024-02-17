@@ -1,2 +1,2 @@
 # deltademo
-demo about git and github lecture
+demo about git and github lecture.
